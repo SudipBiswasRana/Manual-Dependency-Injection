@@ -25,4 +25,3 @@ public class CocaColaShops implements DelegatingDependecy
 
 
 
-// locations.add(new RentalLocation("Kiosk A", Arrays.asList("Forest Gump", "Speed")));
